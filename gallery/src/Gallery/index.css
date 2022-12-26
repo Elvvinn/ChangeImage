@@ -1,0 +1,47 @@
+#mainfoto {
+    padding-top: 30px;
+    width: 350px;
+    height: 340px;
+    display: flex;
+    margin: 0 auto;
+    cursor: pointer;
+    border: 1px solid black;
+    border-style: none;
+
+}
+
+.divbig {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.divbig img {
+    width: 100%;
+}
+
+#first {
+    cursor: pointer;
+    width: 330px;
+    height: 330px;
+    border: 1px solid black;
+    border-style: none;
+    border-radius: 18px;
+}
+
+#second {
+    cursor: pointer;
+    width: 330px;
+    height: 330px;
+    border-style: none;
+    border-radius: 18px;
+}
+
+#third {
+    cursor: pointer;
+    width: 330px;
+    height: 330px;
+    border-style: none;
+    border-radius: 18px;
+}
